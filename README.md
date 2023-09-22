@@ -1,0 +1,2 @@
+# Magnetotelluric_sounding_exploration_Liu_Jianxin_Code_reproduction
+这是笔者本人对所阅读学习书籍的代码复现，书籍是中南大学柳建新教授的著作《大地电磁测深法勘探-资料解释处理、反演与解释》，如有不足，请多多指教！
